@@ -57,7 +57,7 @@
 - Concurrency
 - Other
     - IOC - Unity 
-    - Repository Pattern   
+    - [Repository Pattern](entity-framework/repository-pattern.md) 
 
 ## Extras
 - jQuery
