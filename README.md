@@ -1,8 +1,6 @@
 # ASP .Net 101
 
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 
-
-## - General
+## General
 
 - Delegates and Events
 - Multi-Threading and Synchronization
@@ -16,7 +14,7 @@
   - Polymorphism
   - Inheritance
 
-## - C# Concepts
+## C# Concepts
 - Types
 - Variables
 - Conversions
@@ -31,7 +29,7 @@
 - Delegates
 - Exceptions
 
-## - MVC
+## MVC
 - What is MVC? 
 - Data annotations 
 - Validations
@@ -47,4 +45,25 @@
 - Partial Views 
 
 ## Entity Framework
+- What is Entity Framework?
+- Architecture
+- DBContext
+- DBSet
+- Entity Relationships
+- Code First
+- Model First
+- Database First
+- Lazy Loading
+- Concurrency
+- Other
+    - IOC - Unity 
+    - Repository Pattern   
 
+## Extras
+- TODO
+
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 
+
+## Interview
+- TODO
+ 
