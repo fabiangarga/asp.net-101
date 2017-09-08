@@ -2,7 +2,7 @@
 
 ## General
 
-- Delegates and Events
+- [Delegates and Events](general/delegates-and-events.md)
 - Multi-Threading and Synchronization
 - Generics
 - Design patterns
